@@ -22,6 +22,13 @@ The user must clone the repository to their local drive and, if desired, install
 
 Please see the two videos below for a demonstration of how to use this application:
 
+Schema/Seeds/Server Start-up
+https://watch.screencastify.com/v/arm0sgYFZM5QJazo5Uni
+
+Insomnia GET/POST/UPDATE/DELETE
+https://watch.screencastify.com/v/BGTkdgt2YpDvSMBwjIon
+
+
 ##  Tests
 
 No testing was performed
